@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: blueviolet;
+}
+nav {
+    display: flex;
+    background-color: sandybrown;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+}
+nav ul {
+display: flex;
+}
+nav ul {
+    list-style-type: none;
+}
+nav ul li {
+    margin: 0 10px;
+    padding: 10px 20px;
+}
+nav ul li {
+    text-decoration: none;
+    color: silver;
+}
+nav ul li {
+    text-decoration: none;
+    color: white;
+}
+nav ul li a:hover{
+    color: yellow;
+
+}
+button {
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+.signin {
+    background-color: rgb(30, 128, 0);
+}
+.signup {
+background-color: rgb(14, 196, 241);
+
+}
+
+
+
